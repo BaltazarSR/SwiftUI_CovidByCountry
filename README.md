@@ -57,3 +57,6 @@ xcodebuild test -project CovidChecker.xcodeproj -scheme CovidChecker -destinatio
 - The most valuable learning came from simplifying the app until each file had a clear responsibility.
 - I now feel more confident wiring async network calls into SwiftUI and organizing app code for future expansion.
 ---
+<img width="342" height="639" alt="Screenshot 2025-11-06 at 12 22 33 p m" src="https://github.com/user-attachments/assets/5324edee-49ca-429a-9df2-91f5e72e443e" />
+
+<img width="315" height="621" alt="Screenshot 2025-11-06 at 12 22 20 p m" src="https://github.com/user-attachments/assets/23b2d71c-52d6-46e9-b031-77e3e07b4b7f" />
